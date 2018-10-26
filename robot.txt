@@ -1,1 +1,2 @@
 allow all
+modif depuis l'interface de github
